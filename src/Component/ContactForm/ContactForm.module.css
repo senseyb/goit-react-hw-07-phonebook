@@ -1,0 +1,15 @@
+label {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+}
+button {
+  margin: 5px 10px;
+}
+
+.contactform {
+  width: 300px;
+  padding: 20px;
+  display: block;
+  border: 1px solid #477405;
+}
